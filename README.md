@@ -11,7 +11,7 @@ This is an obfuscated version of the project.
 Some of the original assets have unsuitable licences for open source.
 I replaced such assets with the generic analogues.
 
-Example of difference in version is displayed below:
+An example of differences in versions is displayed below:
 ![Original](RepositoryFiles/original_game.png)
 ![OpenSource](RepositoryFiles/original_game.png)
 
