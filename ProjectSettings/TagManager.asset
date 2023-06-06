@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Orange Platform
+  - Blue Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Dense
+  - Damageable
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 2903006851
+    locked: 0
+  - name: Background
+    uniqueID: 2466457517
+    locked: 0
+  - name: Floor Effects
+    uniqueID: 2657059687
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 3684332717
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 370660469
+    locked: 0
+  - name: Objects
+    uniqueID: 3059920693
+    locked: 0
+  - name: Characters
+    uniqueID: 320943785
+    locked: 0
+  - name: Effects
+    uniqueID: 136479697
+    locked: 0
+  - name: UI
+    uniqueID: 3289325727
+    locked: 0

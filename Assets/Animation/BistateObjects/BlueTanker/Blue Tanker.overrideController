@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Blue Tanker
+  m_Controller: {fileID: 9100000, guid: 3a3dadaa6f1976f4396e16423415be5f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 246410a20b9a8bd46bbf936cc40411be, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6f8f432851d9ef74f8438941fdb38992, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 518fe988519c8254bbc4cc42bf577d01, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eb90ef52b94507a4d89ef72e28bc02a9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 446c844ce231b7d40802c007edfc0749, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9a4b668cf35d8a6419a92fa15f4e870b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b73ca935e8a48114cb0a734f8b40fc5d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4a12ce8321b286945b564fbfa1ac3a58, type: 2}

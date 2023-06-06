@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9476cf6b3f624e93a8f494da24a785b1, type: 3}
+  m_Name: MusicConfig
+  m_EditorClassIdentifier: 
+  scenesMusicData:
+  - sceneName: MainMenu
+    clip: {fileID: 8300000, guid: 266f0cca48c0aac459eb44dcacc7dabf, type: 3}
+    volume: 0.8
+    fadeEffect: 2
+  - sceneName: Start
+    clip: {fileID: 8300000, guid: d2399e0a06fbe5144a44ad7b3dc06e84, type: 3}
+    volume: 1
+    fadeEffect: 2
+  - sceneName: Tutorial_01
+    clip: {fileID: 8300000, guid: 53938bdc84c2fda46ad0739cea56b692, type: 3}
+    volume: 1
+    fadeEffect: 2
+  - sceneName: Tutorial_02
+    clip: {fileID: 8300000, guid: 53938bdc84c2fda46ad0739cea56b692, type: 3}
+    volume: 1
+    fadeEffect: 2
+  - sceneName: Level_01
+    clip: {fileID: 8300000, guid: 53938bdc84c2fda46ad0739cea56b692, type: 3}
+    volume: 1
+    fadeEffect: 2
+  - sceneName: Level_02
+    clip: {fileID: 8300000, guid: 53938bdc84c2fda46ad0739cea56b692, type: 3}
+    volume: 1
+    fadeEffect: 2
+  - sceneName: Level_03
+    clip: {fileID: 8300000, guid: 53938bdc84c2fda46ad0739cea56b692, type: 3}
+    volume: 1
+    fadeEffect: 2
+  - sceneName: Level_04
+    clip: {fileID: 8300000, guid: 5307455807708d8428269762c432d8cc, type: 3}
+    volume: 1
+    fadeEffect: 3
+  - sceneName: Level_05
+    clip: {fileID: 8300000, guid: d7c06908cee635c42a905d1a270ab00f, type: 3}
+    volume: 0.7
+    fadeEffect: 2
+  - sceneName: Level_06
+    clip: {fileID: 8300000, guid: d7c06908cee635c42a905d1a270ab00f, type: 3}
+    volume: 0.7
+    fadeEffect: 2
+  - sceneName: Level_07
+    clip: {fileID: 8300000, guid: d7c06908cee635c42a905d1a270ab00f, type: 3}
+    volume: 0.7
+    fadeEffect: 2
+  - sceneName: Finish
+    clip: {fileID: 8300000, guid: 164281a425a68dd4fad34528b1c0e338, type: 3}
+    volume: 0.8
+    fadeEffect: 2
