@@ -13,7 +13,7 @@ I replaced such assets with the generic analogues.
 
 An example of differences in versions is displayed below:
 ![Original](RepositoryFiles/original_game.png)
-![OpenSource](RepositoryFiles/original_game.png)
+![OpenSource](RepositoryFiles/open-source-version.png)
 
 You can find lists of replaced assets here:
 * [Images](https://github.com/arti32lehtonen/space-madness/blob/main/Assets/Images/README.md)
